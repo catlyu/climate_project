@@ -9,3 +9,18 @@ References found:
   https://www.nature.com/articles/s43017-022-00371-z
 - A multiscale analysis of heatwaves and urban heat islands in the western U.S. during the summer of 2021
   Database reference available. 
+
+Week 10:
+Went to a conference and a competition the past two weekends and didn't make much progress. 
+Learned about Professor Talea Mayo's research at the conference about math for coastal flood risk analysis:
+ - Hurricane floods in New Orleans and in Lousiana
+ - Statistical analysis of storm surge
+ - Risk assessment of storm surge by prediction and categorization
+ - Hydrodynamic modeling using conservation of mass and conservation of energy
+ - WRF modeling includes climate change factors
+ - Computations of the following:
+   - Tropical cyclone intensity, size, translation speed; civil infrastructure, costal population dynamics and demographic shifts, multihazard
+I was inpired by climate change impacts on regional flooding and sought for using the similar modeling method in a heatwave project.
+
+Currently, I am looking at the paper "Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning" by Ashesh Chattopadhyay, Ebrahim Nabizadeh, and Pedram Hassanzadeh, and the associated dataset that can be found at https://www.cesm.ucar.edu/community-projects/lens/data-sets. I want to examine if how adding climate change assumption and constraint to the modeling will change from the result in this paper. 
+
