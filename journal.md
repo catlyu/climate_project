@@ -24,3 +24,5 @@ I was inpired by climate change impacts on regional flooding and sought for usin
 
 Currently, I am looking at the paper "Analog Forecasting of Extreme-Causing Weather Patterns Using Deep Learning" by Ashesh Chattopadhyay, Ebrahim Nabizadeh, and Pedram Hassanzadeh, and the associated dataset that can be found at https://www.cesm.ucar.edu/community-projects/lens/data-sets. I want to examine if how adding climate change assumption and constraint to the modeling will change from the result in this paper. 
 
+Week 12:
+I am building models to assess how well local infrastructures in different cities reflect and accommodate the local extreme weather risks. Specifically, I am trying to find correlations between exposure to risk of heatwaves and local investment in heatwave mitigations. 
