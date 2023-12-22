@@ -1,1 +1,6 @@
+Ideas on improving TSS:
+- its definition is still fuzzy - especially because it depends on overall MAE, which in term depends on the data we have
+- Needs more research into cri
+- Needs more interpretability
+- This can be generalized to other sensitivity scores, for example, how sensitive to coastal searches, earthquakes, etc.
 
