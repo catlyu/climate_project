@@ -26,3 +26,9 @@ Currently, I am looking at the paper "Analog Forecasting of Extreme-Causing Weat
 
 Week 12:
 I am building models to assess how well local infrastructures in different cities reflect and accommodate the local extreme weather risks. Specifically, I am trying to find correlations between exposure to risk of heatwaves and local investment in heatwave mitigations. 
+
+Week 13, 14, 15:
+Writing and revising the codes for data analysis, model training, and graph drawing.
+
+Week 15:
+Writing up the paper. 
